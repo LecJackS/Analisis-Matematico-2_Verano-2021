@@ -1,4 +1,4 @@
-# Analisis-Matematico-2_Verano-2021
+# Analisis Matematico 2 - Verano 2021
 
 También subo acá videos de resoluciones de ejercicios con explicaciones, a modo de práctica personal:
 
