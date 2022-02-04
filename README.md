@@ -4,7 +4,7 @@
 
 > [<img src="https://user-images.githubusercontent.com/610008/152538892-8ccaa388-3dfa-4ff4-9d07-7463cc1fe0db.png" width="600">](https://github.com/LecJackS/Analisis-Matematico-2_Verano-2021/blob/main/Resumen%20P1.pdf)
 >
-> https://github.com/LecJackS/Analisis-Matematico-2_Verano-2021/blob/main/Resumen%20P1.pdf
+> Link: https://github.com/LecJackS/Analisis-Matematico-2_Verano-2021/blob/main/Resumen%20P1.pdf
 
 
 
@@ -12,7 +12,7 @@
 
 > [<img src="https://user-images.githubusercontent.com/610008/152539687-ae926af5-bd16-4693-ae39-6225ff79a364.png" width="600">](https://github.com/LecJackS/Analisis-Matematico-2_Verano-2021/blob/main/Resumen%20P2.pdf)
 >
-> https://github.com/LecJackS/Analisis-Matematico-2_Verano-2021/blob/main/Resumen%20P2.pdf
+> Link: https://github.com/LecJackS/Analisis-Matematico-2_Verano-2021/blob/main/Resumen%20P2.pdf
 
 
 
